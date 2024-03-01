@@ -11,7 +11,7 @@ body {
   color: #434455;
   background-color: #ffffff;
 }
-
+/* //! */
 .visually-hidden {
   position: absolute;
   width: 1px;
@@ -106,10 +106,7 @@ body {
 /*================ section1/end ============== */
 
 /*================ section2 ============== */
-.info-list {
-  width: 264px;
-  height: 104px;
-}
+
 .info-title {
   font-weight: 500;
   font-size: 20px;
@@ -143,10 +140,7 @@ body {
 .team-list {
   background: #fff;
 }
-.team-img {
-  width: 264px;
-  height: 260px;
-}
+
 .team-title {
   font-weight: 500;
   font-size: 20px;
@@ -184,10 +178,7 @@ body {
   height: 420px;
   background: #fff;
 }
-.portfolio-img {
-  width: 360px;
-  height: 300px;
-}
+
 .portfolio-title-list {
   font-weight: 500;
   font-size: 20px;
@@ -205,8 +196,6 @@ body {
 
 /*================ footer ============== */
 .footer {
-  width: 1440px;
-  height: 312px;
   background: #2e2f42;
 }
 
